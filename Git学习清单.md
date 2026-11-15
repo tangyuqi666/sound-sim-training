@@ -7,7 +7,7 @@
 - [x] 3. 后悔药：restore / commit --amend / reset / revert 的区别
 - [x] 4. 分支：branch / switch / merge，亲手制造并解决一次冲突
 - [x] 5. 连上 GitHub：账号 + SSH key，remote / push / clone
-- [ ] 6. 协作主流程：开分支 → push → Pull Request → review → merge（可可扮演协作者）
+- [x] 6. 协作主流程：开分支 → push → Pull Request → review → merge（可可扮演协作者）
 - [ ] 7. 同步别人的改动：fetch / pull / rebase，处理推送被拒
 - [ ] 8. 给别人的开源项目贡献：fork → clone → PR 全流程
 - [ ] 9. 进阶选修：stash / cherry-pick / tag / 交互式 rebase
