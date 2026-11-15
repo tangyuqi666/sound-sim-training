@@ -19,4 +19,5 @@
 - 2026-11-15 11:20 第 1 步完成：首次提交 c59c702（main），add 快照题答对。第 2 步进行中。
 - 2026-11-15 12:16 第 2 步基本完成：.gitignore 已提交 f43828d，ignore 跟踪题答对；README 内容提交漏做，并入第 3 步。第 3 步进行中。
 - 2026-11-15 17:02 第 3 步完成：restore/amend/revert 全跑通，历史 5 条（HEAD e63c021），amend vs revert 题答对。第 4 步（分支+冲突）进行中。
+- 2026-11-15 21:03 第 7 步过半：stash → switch → pull --ff-only → stash pop 跑通，main 快进到 1d53ce4 并推出 10aed53。还剩 rebase 冲突演练。
 - 2026-11-15 17:39 第 4 步完成：feature/plan 分叉→冲突→合并 9321f6a→删分支，全跑通；分支存内容题答对。第 5 步（连 GitHub）完成：SSH 钥匙已挂 GitHub（tangyuqi666），远端 origin 指向 sound-sim-training，push -u 成功，main 已跟踪 origin/main。第 6 步（PR 协作）进行中。
