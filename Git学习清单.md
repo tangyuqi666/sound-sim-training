@@ -11,6 +11,7 @@
 - [ ] 7. 同步别人的改动：fetch / pull / rebase，处理推送被拒
 - [ ] 8. 给别人的开源项目贡献：fork → clone → PR 全流程
 - [ ] 9. 进阶选修：stash / cherry-pick / tag / 交互式 rebase
+- [ ] 这个是测试留言，可可
 
 ## 进度日志
 
